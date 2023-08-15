@@ -1,5 +1,5 @@
 # pneumo
-Treinamento de modelo para previsão de doença pulmonar
+Treinamento de modelo para previsão de doença pulmonar<br><br>
 Modelo treinado com base em imagens obtidas no kaggle no link abaixo:
 <br>
 <pre>
